@@ -19,4 +19,7 @@ Each chapter contains a subdirectory with the corresponding exercises, along wit
 
 ## Example: 
 
+Removing periodic noises using notch filter in the frequency domain:
+
+
 ![Alt Text](https://github.com/MortezaMaghrebi/ImageRestorationTools/blob/main/Pictures/Chapter4/NotchFilter.gif)

@@ -1,0 +1,15 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Exc1__gamma_correction_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ex1__gamma_correction_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].csproj.GenerateResource.Cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Exc1__gamma_correction_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ex1__gamma_correction_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ch3_Exc1_[Gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].csproj.GenerateResource.Cache

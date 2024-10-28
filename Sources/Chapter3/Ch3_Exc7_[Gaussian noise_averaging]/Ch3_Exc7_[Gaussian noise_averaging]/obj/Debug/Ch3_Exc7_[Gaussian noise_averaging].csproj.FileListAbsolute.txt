@@ -1,0 +1,18 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7__Gaussian_noise_averaging_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7__Gaussian_noise_averaging_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\bin\Debug\Ch3_Exc7_[Gaussian noise_averaging].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7__Gaussian_noise_averaging_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7__Gaussian_noise_averaging_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc7_[Gaussian noise_averaging]\Ch3_Exc7_[Gaussian noise_averaging]\obj\Debug\Ch3_Exc7_[Gaussian noise_averaging].csproj.GenerateResource.Cache

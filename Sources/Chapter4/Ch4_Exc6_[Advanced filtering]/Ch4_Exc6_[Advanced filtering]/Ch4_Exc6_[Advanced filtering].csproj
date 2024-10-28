@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B03706E4-D90D-4945-84DB-985D6668A482}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ch4_Exc6__Advanced_filtering_</RootNamespace>
+    <AssemblyName>Ch4_Exc6_[Advanced filtering]</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons8_nothern_lights.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fourier, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Fourier.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageProcessing.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-12-2014 3-57-50 PM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\113.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\program_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\114.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nature Wallpapers #05 - p30download.com - 02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nature Wallpapers #05 - p30download.com - 14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\124373-matte-white-square-icon-animals-animal-antz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\124450-matte-white-square-icon-animals-animal-ladybug5-sc24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grayscale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort1 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open - Copy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open - Copy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open - Copy3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\select2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FFT2_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iFFT2_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MakeFilter2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grayscale - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grayscale1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nature Wallpapers #05 - p30download.com - 27 - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons8_nothern_lights.ico" />
+    <None Include="Resources\icons8_nothern_liwghts_64.png" />
+    <None Include="Resources\icons8_nothern_lights_64.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

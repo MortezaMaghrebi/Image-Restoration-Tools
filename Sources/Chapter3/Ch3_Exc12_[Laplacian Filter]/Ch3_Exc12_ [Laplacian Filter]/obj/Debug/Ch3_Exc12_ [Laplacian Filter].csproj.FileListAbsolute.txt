@@ -1,0 +1,27 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc9__Laplacian_filter_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_ [Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12__Laplacian_filter_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc9__Laplacian_filter_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12__Laplacian_filter_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csproj.GenerateResource.Cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_[Laplacian filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\bin\Debug\Ch3_Exc12_[Laplacian filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc9__Laplacian_filter_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12__Laplacian_filter_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc12_[Laplacian Filter]\Ch3_Exc12_ [Laplacian Filter]\obj\Debug\Ch3_Exc12_ [Laplacian Filter].csproj.GenerateResource.Cache

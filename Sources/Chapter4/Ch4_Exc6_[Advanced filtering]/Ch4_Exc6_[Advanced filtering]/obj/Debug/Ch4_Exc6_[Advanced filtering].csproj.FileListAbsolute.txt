@@ -1,0 +1,37 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].pdb
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].exe
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].pdb
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].exe
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].pdb
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csprojResolveAssemblyReference.cache
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Form1.resources
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Properties.Resources.resources
+E:\DVD1\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.GenerateResource.Cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.GenerateResource.Cache
+D:\SHARE\locale\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].exe
+D:\SHARE\locale\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].pdb
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].exe
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Ch4_Exc6_[Advanced filtering].pdb
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csprojAssemblyReference.cache
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Form1.resources
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6__Advanced_filtering_.Properties.Resources.resources
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.GenerateResource.cache
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.CoreCompileInputs.cache
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].csproj.CopyComplete
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].exe
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter4\Ch4_Exc6_[Advanced filtering]\Ch4_Exc6_[Advanced filtering]\obj\Debug\Ch4_Exc6_[Advanced filtering].pdb

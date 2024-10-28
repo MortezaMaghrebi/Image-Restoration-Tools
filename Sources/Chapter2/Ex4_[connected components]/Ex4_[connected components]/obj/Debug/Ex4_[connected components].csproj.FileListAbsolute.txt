@@ -1,0 +1,17 @@
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\bin\Debug\Ex4_[connected components].exe
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\bin\Debug\Ex4_[connected components].pdb
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4__connected_components_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4__connected_components_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].exe
+D:\Science\Image Proccessing\Excercizes\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\bin\Debug\Ex4_[connected components].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\bin\Debug\Ex4_[connected components].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\bin\Debug\Ex4_[connected components].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4__connected_components_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4__connected_components_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter2\Ex4_[connected components]\Ex4_[connected components]\obj\Debug\Ex4_[connected components].csproj.GenerateResource.Cache

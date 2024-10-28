@@ -1,0 +1,16 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\bin\Debug\Ex5_[gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\bin\Debug\Ex5_[gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5__gamma_correction_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5__gamma_correction_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex5_[gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\bin\Debug\Ch3_Exc1_[Gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex1__gamma_correction_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Ex5_[gamma correction].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Ch3_Exc1_[Gamma correction].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc1_[Gamma correction]\Ex5_[gamma correction]\obj\Debug\Exc1__gamma_correction_.Form1.resources

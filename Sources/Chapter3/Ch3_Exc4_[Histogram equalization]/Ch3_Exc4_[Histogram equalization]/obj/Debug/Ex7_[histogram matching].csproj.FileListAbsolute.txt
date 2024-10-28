@@ -1,0 +1,9 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\bin\Debug\Ex7_[histogram matching].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\bin\Debug\Ex7_[histogram matching].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\bin\Debug\Ex7_[histogram matching].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7_[histogram matching].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7__histogram_matching_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7__histogram_matching_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7_[histogram matching].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7_[histogram matching].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex7_[histogram matching]\Ex7_[histogram matching]\obj\Debug\Ex7_[histogram matching].pdb

@@ -1,0 +1,9 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc9_[Averaging filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc9_[Averaging filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc9_[Averaging filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc9__Median_filter_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc9__Median_filter_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16__MRI_Fuzzy_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16__MRI_Fuzzy_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\bin\Debug\Ch3_Exc16_[MRI Fuzzy].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16__MRI_Fuzzy_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16__MRI_Fuzzy_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc16_[MRI Fuzzy]\Ch3_Exc16_[MRI Fuzzy]\obj\Debug\Ch3_Exc16_[MRI Fuzzy].csproj.GenerateResource.Cache

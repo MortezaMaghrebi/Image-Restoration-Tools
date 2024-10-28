@@ -1,0 +1,8 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\bin\Debug\Ex6_[bit-plane slicing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\bin\Debug\Ex6_[bit-plane slicing].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6__bit_plane_slicing_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6__bit_plane_slicing_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6_[bit-plane slicing].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6_[bit-plane slicing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6_[bit-plane slicing].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex6_[bit-plane slicing]\Ex6_[bit-plane slicing]\obj\Debug\Ex6_[bit-plane slicing].csprojResolveAssemblyReference.cache

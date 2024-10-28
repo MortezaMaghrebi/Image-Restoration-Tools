@@ -1,0 +1,8 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\bin\Debug\Ch4_Exc4_[Change abs or angle].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\bin\Debug\Ch4_Exc4_[Change abs or angle].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4_[Change abs or angle].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4__Change_abs_or_angle_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4__Change_abs_or_angle_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4_[Change abs or angle].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4_[Change abs or angle].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc4_[Change abs or angle]\Ch4_Exc4_[Change abs or angle]\obj\Debug\Ch4_Exc4_[Change abs or angle].pdb

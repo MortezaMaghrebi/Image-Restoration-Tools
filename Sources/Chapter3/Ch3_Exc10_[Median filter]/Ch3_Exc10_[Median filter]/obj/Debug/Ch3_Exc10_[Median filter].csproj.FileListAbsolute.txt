@@ -1,0 +1,18 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10__Median_filter_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10__Median_filter_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\bin\Debug\Ch3_Exc10_[Median filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10__Median_filter_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10__Median_filter_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc10_[Median filter]\Ch3_Exc10_[Median filter]\obj\Debug\Ch3_Exc10_[Median filter].csproj.GenerateResource.Cache

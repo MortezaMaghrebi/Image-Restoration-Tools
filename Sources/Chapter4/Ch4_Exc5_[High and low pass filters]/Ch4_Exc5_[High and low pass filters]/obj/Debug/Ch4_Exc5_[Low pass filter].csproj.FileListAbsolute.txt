@@ -1,0 +1,8 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5_[Low pass filter].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5_[Low pass filter].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5__High_and_low_pass_filters_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5__High_and_low_pass_filters_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\bin\Debug\Ch4_Exc5_[High and low pass filters].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\bin\Debug\Ch4_Exc5_[High and low pass filters].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5_[High and low pass filters].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc5_[Low pass filter]\Ch4_Exc5_[Low pass filter]\obj\Debug\Ch4_Exc5_[High and low pass filters].pdb

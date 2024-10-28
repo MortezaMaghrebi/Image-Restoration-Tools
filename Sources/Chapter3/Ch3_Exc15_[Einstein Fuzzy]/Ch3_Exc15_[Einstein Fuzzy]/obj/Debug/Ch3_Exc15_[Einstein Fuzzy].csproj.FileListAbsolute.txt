@@ -1,0 +1,27 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csproj.GenerateResource.Cache
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe.config
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].exe
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\bin\Debug\Ch3_Exc15_[Einstein Fuzzy].pdb
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csprojResolveAssemblyReference.cache
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Form1.resources
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15__Einstein_Fuzzy_.Properties.Resources.resources
+D:\Morteza Maghrebi_backup_ do not write changes\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc15_[Einstein Fuzzy]\Ch3_Exc15_[Einstein Fuzzy]\obj\Debug\Ch3_Exc15_[Einstein Fuzzy].csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\bin\Debug\Ch4_Exc1_[Aliasing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\bin\Debug\Ch4_Exc1_[Aliasing].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1_[Aliasing].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1__Aliasing_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1__Aliasing_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1_[Aliasing].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1_[Aliasing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter4\Ch4_Exc1_[Aliasing]\Ch4_Exc1_[Aliasing]\obj\Debug\Ch4_Exc1_[Aliasing].pdb

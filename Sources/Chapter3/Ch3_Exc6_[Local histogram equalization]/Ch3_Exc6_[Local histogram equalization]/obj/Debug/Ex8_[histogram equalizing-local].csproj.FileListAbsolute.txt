@@ -1,0 +1,8 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8_[histogram equalizing-local].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8_[histogram equalizing-local].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\bin\Debug\Ex8_[histogram equalizing-local].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\bin\Debug\Ex8_[histogram equalizing-local].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8__histogram_equalizing_local_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8__histogram_equalizing_local_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8_[histogram equalizing-local].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Ex8_[histogram equalizing-local]\Ex8_[histogram equalizing-local]\obj\Debug\Ex8_[histogram equalizing-local].csprojResolveAssemblyReference.cache

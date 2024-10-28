@@ -1,0 +1,17 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[Bit-plane slicing].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Exc3__bit_plane_slicing_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Exc3__bit_plane_slicing_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[Bit-plane slicing].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\bin\Debug\Ch3_Exc3_[bit-plane slicing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\bin\Debug\Ch3_Exc3_[bit-plane slicing].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[bit-plane slicing].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[bit-plane slicing].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\bin\Debug\Ch3_Exc3_[bit-plane slicing].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[bit-plane slicing].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[bit-plane slicing].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\bin\Debug\Ch3_Exc3_[bit-plane slicing].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\bin\Debug\Ch3_Exc3_[bit-plane slicing].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[Bit-plane slicing].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Exc3__bit_plane_slicing_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Exc3__bit_plane_slicing_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc3_[Bit-plane slicing]\Ch3_Exc3_[Bit-plane slicing]\obj\Debug\Ch3_Exc3_[Bit-plane slicing].csproj.GenerateResource.Cache

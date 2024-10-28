@@ -1,0 +1,18 @@
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe.config
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].pdb
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].csprojResolveAssemblyReference.cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9__Averaging_filter_.Form1.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9__Averaging_filter_.Properties.Resources.resources
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].csproj.GenerateResource.Cache
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].exe
+D:\Science\Image Proccessing\Excercizes\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe.config
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].exe
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\bin\Debug\Ch3_Exc9_[Averaging filter].pdb
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].csprojResolveAssemblyReference.cache
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9__Averaging_filter_.Form1.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9__Averaging_filter_.Properties.Resources.resources
+F:\DriveE\Morteza Maghrebi\Image Proccessing\Excersizes2013\Sources\Chapter3\Ch3_Exc9_[Averaging filter]\Ch3_Exc9_[Averaging filter]\obj\Debug\Ch3_Exc9_[Averaging filter].csproj.GenerateResource.Cache
